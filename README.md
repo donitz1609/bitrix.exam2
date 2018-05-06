@@ -23,6 +23,10 @@
 
 #### Жмём "ВОССТАНОВИТЬ"
 
+***
+
+### Доступы к БД:
+
 $DBLogin = "bitrix0";
 
 $DBPassword = "vwWV019Kvup0aI8?wik1";
