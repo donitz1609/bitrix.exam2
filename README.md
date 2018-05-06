@@ -3,7 +3,7 @@
 
 #### Пример установки:
 
-1. Скачиваем архив. [Скачать] (https://drive.google.com/open?id=1vBu48zcRn_cz1yz4NO9csFzs33KsfJZs);
+1. Скачиваем архив (https://drive.google.com/open?id=1vBu48zcRn_cz1yz4NO9csFzs33KsfJZs);
 
 2. Устанавливаем (если не установлен) VMware;
 
