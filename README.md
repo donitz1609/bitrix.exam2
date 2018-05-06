@@ -21,6 +21,8 @@
 
 ![Screenshot](020.png)
 
+#### Жмём "ВОССТАНОВИТЬ"
+
 $DBLogin = "bitrix0";
 
 $DBPassword = "vwWV019Kvup0aI8?wik1";
