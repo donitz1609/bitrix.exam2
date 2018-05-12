@@ -34,6 +34,9 @@ $DBPassword = "vwWV019Kvup0aI8?wik1";
 $DBName = "sitemanager";
 
 ***
+#### Доступы к админке:
+admin / 112233
+***
 #### В верхнем меню вкладка "Задания".
 ***
 
